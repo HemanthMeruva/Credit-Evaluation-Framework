@@ -1,4 +1,4 @@
-# Credit Risk Analytics Project
+# Credit-Evaluation-Framework Project
 ## Overview
 The Bank Loan Report Project leverages SQL for data preprocessing and manipulation and Power BI for visualization, providing stakeholders with actionable insights into loan applications and approvals. It features optimized queries using CTEs for efficient processing and dynamic query handling for automatic data updates. The Project aims to analyze and visualize loan data efficiently and dynamically. This involves firing optimized SQL queries to extract and transform data, followed by developing interactive and insightful Power BI dashboards to monitor Key Performance Indicators (KPIs) related to loan disbursements, statuses, and trends and at the end delivered data driven insights in Credit/Loan Disbursement aligned to Project goals.
 
